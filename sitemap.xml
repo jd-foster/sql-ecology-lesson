@@ -28,6 +28,159 @@
     <loc>https://datacarpentry.github.io/sql-ecology-lesson/NEWS.html</loc>
   </url>
   <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_includes/all_figures.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_includes/all_keypoints.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_includes/anySetup.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_includes/banner.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_includes/base_path.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_includes/carpentries.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_includes/check_transition_variables.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_includes/dc/intro.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_includes/dc/schedule.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_includes/dc/syllabus.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_includes/dc/who.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_includes/episode_break.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_includes/episode_keypoints.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_includes/episode_navbar.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_includes/episode_overview.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_includes/episode_title.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_includes/favicons.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_includes/footer.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_includes/gh_variables.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_includes/header.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_includes/javascript.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_includes/lc/intro.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_includes/lc/schedule.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_includes/lc/syllabus.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_includes/lc/who.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_includes/lesson-index.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_includes/lesson_footer.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_includes/life_cycle.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_includes/main_title.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_includes/manual_episode_order.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_includes/navbar.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_includes/pythonSetup.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_includes/rSetup.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_includes/sc/intro.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_includes/sc/schedule.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_includes/sc/syllabus.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_includes/sc/who.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_includes/spreadsheetSetup.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_includes/sqlSetup.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_includes/syllabus.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_includes/workshop_ad.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_includes/workshop_calendar.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_includes/workshop_footer.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_layouts/base.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_layouts/break.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_layouts/episode.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_layouts/lesson.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_layouts/page.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_layouts/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_layouts/slides.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/_layouts/workshop.html</loc>
+  </url>
+  <url>
     <loc>https://datacarpentry.github.io/sql-ecology-lesson/aio.html</loc>
   </url>
   <url>
@@ -91,6 +244,9 @@
     <loc>https://datacarpentry.github.io/sql-ecology-lesson/instructor/reference.html</loc>
   </url>
   <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/instructor/sql-cheat-sheet.html</loc>
+  </url>
+  <url>
     <loc>https://datacarpentry.github.io/sql-ecology-lesson/instructor-notes.html</loc>
   </url>
   <url>
@@ -101,5 +257,8 @@
   </url>
   <url>
     <loc>https://datacarpentry.github.io/sql-ecology-lesson/reference.html</loc>
+  </url>
+  <url>
+    <loc>https://datacarpentry.github.io/sql-ecology-lesson/sql-cheat-sheet.html</loc>
   </url>
 </urlset>
