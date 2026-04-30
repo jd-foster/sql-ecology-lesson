@@ -112,8 +112,8 @@ which is stored as one of its fields.
 Records may also contain keys that refer to records in other tables,
 which enables us to combine information from two or more sources.
 
-
 ::::::::::::::::::::::::::::::::::::::::::::::::::
+
 
 ## Databases
 
@@ -125,8 +125,14 @@ Using a relational database serves several purposes.
   - This means there's no risk of accidentally changing data when you analyze it.
   - If we get new data we can rerun the query.
 - It's fast, even for large amounts of data.
-- It improves quality control of data entry (type constraints and use of forms in MS Access, Filemaker, Oracle Application Express etc.)
-- The concepts of relational database querying are core to understanding how to do similar things using programming languages such as R or Python.
+- It improves quality control of data entry.
+  - Restrictions on what is valid data within a table can be enforced in different ways, such as
+  the use of data types, cross-references and other relationships between tables.
+- The concepts used in querying relational databases help us understanding how to do similar things in other programming languages such as R or Python.
+
+In many small datasets we have only a few tables and we don't have to think about too many cross-references, or *keys*, between tables.
+Shared keys between tables becomes increasingly important as the volume and complexity of data grows.
+One motivation for using relational databases is being able to organize data using keys that must consistently refer to other tables.
 
 ### Database Management Systems
 
@@ -175,9 +181,28 @@ To summarize:
   containing parts we might want to work with separately.
 - One field per type of information
 - No redundant information
-  - Split into separate tables with one table per class of information
-  - Needs an identifier in common between tables – shared column - to
-    reconnect (known as a *foreign key*).
+- Split into separate tables with one table per class of information
+- Needs an identifier in common between tables – a shared column - to
+ reconnect data (known as a *foreign key*).
+	
+:::::::::::::::::::::::::::::::::::::::::  callout
+
+### SQL vs. NoSQL
+
+SQL is not the only tool for managing and analyzing large amounts of data.
+As described above, SQL databases store data in tables using a rigid schema.
+This works well for many applications, but larger, more complex projects may
+benefit from the more flexible approach provided by NoSQL databases. A common application for NoSQL databases is storing documents and files.
+
+NoSQL databases are diverse, employing a variety of data structures tailored
+to specific use cases, but in general provide a scalable way to store, search,
+and establish relationships within large datasets that cannot easily be
+represented by a rigid, tabular schema.
+A more thorough discussion of the differences between SQL and NoSQL
+is beyond the scope of this lesson, but curious readers can start with
+[this comparison](https://www.mongodb.com/nosql-explained/nosql-vs-sql) by MongoDB, a NoSQL database vendor.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ### Import
 
